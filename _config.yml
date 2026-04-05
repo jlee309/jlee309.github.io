@@ -8,6 +8,7 @@ repository: "jlee309/jlee309.github.io"
 
 author:
   name: "Jin Hyung Lee"
+  avatar: "images/profile.jpg"   # ← 이 줄 추가
   bio: "Postdoc Researcher"
   location: "Purdue University"
   email: "lee6024@purdue.edu"

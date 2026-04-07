@@ -21,5 +21,5 @@ My research focuses on developing scalable variational Bayes methods for massive
 
 ## News
 
-* **[Mar 2026]** I gave a presentation at [ENAR](https://www.enar.org/).
-* **[Oct 2026]** I gave a presentation at [ENAR](https://www.enar.org/).
+* [Oct 2025] **Jin Hyung Lee** joined the department of Statistics at Purdue as a postdoc under the supervision of Prof. Anindya Bhadra.
+* [Oct 2025] **Jin Hyung Lee** successfully defend on October 21st.

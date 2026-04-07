@@ -25,14 +25,14 @@ My research focuses on developing scalable variational Bayes methods for massive
 
 ## Manuscripts in Preparation
 
-1. **Lee, J.H.**, and Bhadra, A. (2026)  
-    A Scalable Variational Bayes Approach for Modeling Multivariate Spatial Models.
+1. A Scalable Variational Bayes Approach for Modeling Multivariate Spatial Models.  
+    **Lee, J.H.**, and Bhadra, A. (2026)
 
-2. Lee, H.S., Kim, J.S., Park, J., Lee, B.S., and **Lee, J.H.** (2026)  
-    Deep Spatial Function-on-Scalar Regression with Robust Nonparametric Testing.
+2. Deep Spatial Function-on-Scalar Regression with Robust Nonparametric Testing.  
+    Lee, H.S., Kim, J.S., Park, J., Lee, B.S., and **Lee, J.H.** (2025)
 
-3. **Lee, J.H.**, Lee, S., and Kim, S.D. (2026)  
-    A Scalable Variational Bayes Method for a Robust High-dimensional Bayesian Spatial Quantile Regression.
+3. A Scalable Variational Bayes Method for a Robust High-dimensional Bayesian Spatial Quantile Regression.  
+    **Lee, J.H.**, Lee, S., and Kim, S.D. (2026)
 
-4. Wang, Y., **Lee, J.H.**, Yamaguchi, Y., and Han, C. (2026)  
-    Bayesian Hierarchical Dose-Response Model Averaging in Small Clinical Trials for Decision-Making.
+4. Bayesian Hierarchical Dose-Response Model Averaging in Small Clinical Trials for Decision-Making.  
+    Wang, Y., **Lee, J.H.**, Yamaguchi, Y., and Han, C. (2026)

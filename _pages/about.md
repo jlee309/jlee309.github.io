@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I am Jin Hyung Lee, a Postdoctoral Researcher at [Purdue University](https://www.purdue.edu/), working with Professor [Anindya Bhadra](https://www.stat.purdue.edu/~bhadra/).
+Hi, I am Jin Hyung Lee, a Postdoctoral Researcher at the [Department of Statistics at Purdue University](https://stat.purdue.edu/), working with Professor [Anindya Bhadra](https://www.stat.purdue.edu/~bhadra/).
 
 I received my Ph.D. in Statistics from the [Department of Statistics at George Mason University](https://statistics.gmu.edu/) in October 2025, under the supervision of [Dr. Ben Seiyon Lee](https://sites.google.com/view/benslee/). During Summer 2023 and Summer 2024, I worked as a biostatistician intern at [Astellas Pharma US](https://www.astellas.com/us/), where I applied Bayesian methods to improve efficiency and rigor in clinical trial design and analysis. 
 

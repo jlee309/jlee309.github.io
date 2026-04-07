@@ -22,7 +22,7 @@ My research focuses on developing scalable variational Bayes methods for massive
 ## News
 
 * **[Oct 2025]** **Jin Hyung Lee** joined the Department of Statistics at Purdue as a Postdoctoral Researcher under the supervision of Prof. Anindya Bhadra.
-* **[Oct 2025]** **Jin Hyung Lee** successfully defend on October 21st.
+* **[Oct 2025]** **Jin Hyung Lee** successfully defended his thesis [Variational Approximations for Massive Spatial Data: Scalable Bayesian Inference](https://www.proquest.com/openview/7ffa929769e816519ecd28911779e33e/1?pq-origsite=gscholar&cbl=18750&diss=y) on October 21st. Thank you so much for your support Dr. Ben Seiyon Lee. 
 
 ## Awards
 

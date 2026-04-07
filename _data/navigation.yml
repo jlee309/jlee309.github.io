@@ -1,7 +1,11 @@
 main:
-  - title: "Jin Hyung Lee"
+  - title: "Home"
     url: /
-  - title: "Publications"
+  - title: "Research"
     url: /publications/
+   - title: "Presentations"
+    url: /Presentations/   
+   - title: "Teaching"
+    url: /Teaching/       
   - title: "CV"
     url: /cv/

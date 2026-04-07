@@ -15,6 +15,11 @@ Prior to my Ph.D., I worked as a Senior Researcher at the [Korea International T
 
 My research focuses on developing scalable variational Bayes methods for massive non-Gaussian spatial datasets. To address this challenge, I design novel variational inference frameworks that enable fast and accurate posterior inference in regimes where traditional MCMC methods are computationally infeasible, leveraging state-of-the-art machine learning, neural networks, and generative modeling techniques within a Bayesian framework. These methods deliver substantial computational gains while maintaining strong predictive performance, with future applications in atmospheric science, hydrology, genetics, and fMRI data analysis.
 
+## Research Interests
+
+* Variational Inference, Normalizing Flows, Neural Network, Bayesian Statistics, Spatial Statistics, Functional Statistics
+
 ## News
 
 * **[Mar 2026]** I gave a presentation at [ENAR](https://www.enar.org/).
+* **[Oct 2026]** I gave a presentation at [ENAR](https://www.enar.org/).

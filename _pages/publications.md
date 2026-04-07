@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-My research focuses on developing scalable variational Bayes methods for massive non-Gaussian spatial datasets. [Google Scholar](https://scholar.google.com/citations?user=0GAf5N8AAAAJ&hl=en)
+[Google Scholar](https://scholar.google.com/citations?user=0GAf5N8AAAAJ&hl=en)
 
 ## Publications
 
@@ -29,7 +29,7 @@ My research focuses on developing scalable variational Bayes methods for massive
     **Lee, J.H.**, and Bhadra, A. (2026)
 
 2. Deep Spatial Function-on-Scalar Regression with Robust Nonparametric Testing.  
-    Lee, H.S., Kim, J.S., Park, J., Lee, B.S., and **Lee, J.H.** (2025)
+    Lee, H.S., Kim, J.S., Park, J., Lee, B.S., and **Lee, J.H.** (2026)
 
 3. A Scalable Variational Bayes Method for a Robust High-dimensional Bayesian Spatial Quantile Regression.  
     **Lee, J.H.**, Lee, S., and Kim, S.D. (2026)

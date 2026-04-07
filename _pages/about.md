@@ -21,5 +21,17 @@ My research focuses on developing scalable variational Bayes methods for massive
 
 ## News
 
-* [Oct 2025] **Jin Hyung Lee** joined the Department of Statistics at Purdue as a Postdoctoral Researcher under the supervision of Prof. Anindya Bhadra.
-* [Oct 2025] **Jin Hyung Lee** successfully defend on October 21st.
+* **[Oct 2025]** **Jin Hyung Lee** joined the Department of Statistics at Purdue as a Postdoctoral Researcher under the supervision of Prof. Anindya Bhadra.
+* **[Oct 2025]** **Jin Hyung Lee** successfully defend on October 21st.
+
+## Awards & Service
+
+* **[Jan 2025]** Korean International Statistical Society (KISS) Outstanding Student Paper Competition Award Winner, Korean International Statistical Society
+* **[Oct 2024]** ENVR Travel Award to NCAR, American Statistical Association (ASA)
+* **[Aug 2024]** R. Clifton Bailey Travel Award, Department of Statistics, George Mason University
+* **[Aug 2024]** Graduate Student Travel Fund Award, George Mason University
+* **[Aug 2024]** Student Representative, Korean International Statistical Society
+* **[May 2023]** Distinguished Service and Leadership Award, Department of Statistics, George Mason University
+* **[Aug 2023]** Graduate Student Travel Fund Award, George Mason University
+* **[Apr 2023]** Second Place Poster Presentation Award, UMBC Probability and Statistics Day
+* **[Aug 2022]** Vice President, George Mason University Statistics Graduate Student Association

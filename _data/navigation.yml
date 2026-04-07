@@ -1,7 +1,13 @@
-main:
+ main:
   - title: "Home"
     url: /
   - title: "Research"
     url: /publications/
+  - title: "Presentations"
+    url: /Presentations/   
+  - title: "Teaching"
+    url: /Teaching/    
+  - title: "Service"
+    url: /Service/       
   - title: "CV"
     url: /cv/

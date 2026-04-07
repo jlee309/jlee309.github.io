@@ -17,7 +17,7 @@ My research focuses on developing scalable variational Bayes methods for massive
 
 ## Research Interests
 
-* Variational Inference, Normalizing Flows, Neural Network, Bayesian Statistics, Spatial Statistics, Functional Statistics
+* Variational Inference, Normalizing Flows, Neural Network, Bayesian Statistics, Spatial Statistics, Functional Data Analysis
 
 ## News
 

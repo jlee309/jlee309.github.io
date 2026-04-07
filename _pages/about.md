@@ -26,7 +26,7 @@ My research focuses on developing scalable variational Bayes methods for massive
 
 ## Awards
 
-* **[Jan 2025]** **Korean International Statistical Society (KISS) Outstanding Student Paper Competition Award Winner**, Korean International Statistical Society
+* **[Jan 2025]** [Korean International Statistical Society (KISS) Outstanding Student Paper Competition Awardee](https://www.statkiss.org/awards/student/), Korean International Statistical Society
 * **[Oct 2024]** ENVR Travel Award to NCAR, American Statistical Association (ASA)
 * **[Aug 2024]** R. Clifton Bailey Travel Award, Department of Statistics, George Mason University
 * **[Aug 2024]** Graduate Student Travel Fund Award, George Mason University

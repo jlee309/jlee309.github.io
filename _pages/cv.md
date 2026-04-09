@@ -7,5 +7,5 @@ author_profile: true
 
 {% include base_path %}
 
-<iframe src="/files/JinHyungLee_CV_04092026pdf" width="100%" height="1000px">
+<iframe src="/files/JinHyungLee_CV_04092026.pdf" width="100%" height="1000px">
 </iframe>

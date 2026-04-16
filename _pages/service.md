@@ -14,3 +14,4 @@ author_profile: true
 
 * Reviewer for Statistical Analysis and Data Mining
 * Reviewer for Statistica Sinica
+* Reviewer for Spatial Statistics

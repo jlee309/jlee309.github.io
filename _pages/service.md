@@ -12,6 +12,6 @@ author_profile: true
 
 ## Journal Reviewers
 
-* Reviewer for Statistical Analysis and Data Mining
 * Reviewer for Statistica Sinica
+* Reviewer for Statistical Analysis and Data Mining
 * Reviewer for Spatial Statistics

@@ -38,4 +38,4 @@ author_profile: true
     [Wang, Y.](https://www.linkedin.com/in/annie-y-wang/), **Lee, J.H.**, [Yamaguchi, Y.](https://www.linkedin.com/in/yusuke-yamaguchi-59688b369/), and [Han, C.](https://www.linkedin.com/in/cong-han-b6514813/) (2026)
 
 5. Dynamic Stochastic General Equilibrium Models with Variational Inference Normalizing Flows.  
-    [Hong, S.]([https://www.linkedin.com/in/annie-y-wang/](https://seungkihong.com/)), **Lee, J.H.** (2026)   
+    [Hong, S.](https://seungkihong.com/), **Lee, J.H.** (2026)   

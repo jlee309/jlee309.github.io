@@ -20,8 +20,12 @@ author_profile: true
 ## Preprints
 
 1. [A Scalable Variational Bayes Approach for Fitting Non-Conjugate Spatial Generalized Linear Mixed Models via Basis Expansions](https://arxiv.org/abs/2512.00895)  
-    **Lee, J.H.**, and [Lee, B.S.](https://sites.google.com/view/benslee/) (2025)  
+    **Lee, J.H.**, and [Lee, B.S.](https://sites.google.com/view/benslee/) (2026)  
     arXiv preprint arXiv:2512.00895. ***Under review.***
+
+2. Bayesian Hierarchical Dose-Response Model Averaging in Small Clinical Trials for Decision-Making.  
+    [Wang, Y.](https://www.linkedin.com/in/annie-y-wang/), **Lee, J.H.**, [Yamaguchi, Y.](https://www.linkedin.com/in/yusuke-yamaguchi-59688b369/), and [Han, C.](https://www.linkedin.com/in/cong-han-b6514813/) (2026)
+
 
 ## Manuscripts in Preparation
 
@@ -34,8 +38,5 @@ author_profile: true
 3. A Scalable Variational Bayes Method for a Robust High-dimensional Bayesian Spatial Quantile Regression.  
     **Lee, J.H.**, [Lee, S.](https://sangkyustat.github.io/), and Kim, S.D. (2026)
 
-4. Bayesian Hierarchical Dose-Response Model Averaging in Small Clinical Trials for Decision-Making.  
-    [Wang, Y.](https://www.linkedin.com/in/annie-y-wang/), **Lee, J.H.**, [Yamaguchi, Y.](https://www.linkedin.com/in/yusuke-yamaguchi-59688b369/), and [Han, C.](https://www.linkedin.com/in/cong-han-b6514813/) (2026)
-
-5. Dynamic Stochastic General Equilibrium Models with Variational Inference Normalizing Flows.  
+4. Dynamic Stochastic General Equilibrium Models with Variational Inference Normalizing Flows.  
     [Hong, S.](https://seungkihong.com/), **Lee, J.H.** (2026)   

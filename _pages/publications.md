@@ -24,9 +24,9 @@ author_profile: true
     arXiv preprint arXiv:2512.00895. ***Under review.***
 
 2. Bayesian Hierarchical Dose-Response Model Averaging in Small Clinical Trials for Decision-Making.  
-    [Wang, Y.](https://www.linkedin.com/in/annie-y-wang/), **Lee, J.H.**, [Yamaguchi, Y.](https://www.linkedin.com/in/yusuke-yamaguchi-59688b369/), and [Han, C.](https://www.linkedin.com/in/cong-han-b6514813/) (2026)
+    [Wang, Y.](https://www.linkedin.com/in/annie-y-wang/), **Lee, J.H.**, [Yamaguchi, Y.](https://www.linkedin.com/in/yusuke-yamaguchi-59688b369/), and [Han, C.](https://www.linkedin.com/in/cong-han-b6514813/) (2026) ***Under review.***
 
-
+ 
 ## Manuscripts in Preparation
 
 1. A Scalable Variational Bayes Approach for Modeling Multivariate Spatial Models.  

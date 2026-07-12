@@ -19,7 +19,7 @@ author_profile: true
     Poythress, J.C., **Lee, J.H.**, [Takeda, K.](https://scholar.google.com/citations?user=3NpDNtgAAAAJ&hl=ja), and [Liu, J.](https://www.linkedin.com/in/jun-liu-13186496/) (2024)  
     *Pharmaceutical Statistics*, 23(6), 1166-1180.
 
-## Under Reivew
+## Under Review
 
 1. Bayesian Hierarchical Dose-Response Model Averaging in Small Clinical Trials for Decision-Making.  
     [Wang, Y.](https://www.linkedin.com/in/annie-y-wang/), **Lee, J.H.**, [Yamaguchi, Y.](https://www.linkedin.com/in/yusuke-yamaguchi-59688b369/), and [Han, C.](https://www.linkedin.com/in/cong-han-b6514813/) (2026) ***Under review.***

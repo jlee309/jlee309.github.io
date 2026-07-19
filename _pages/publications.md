@@ -4,6 +4,8 @@ title: "Research"
 permalink: /publications/
 author_profile: true
 ---
+## Research Interests
+My research focuses on Variational Inference, Machine learning, Normalizing Flows, Neural Network, Bayesian Statistics, Spatial Statistics, and Functional Data Analysis. 
 
 [Google Scholar](https://scholar.google.com/citations?user=0GAf5N8AAAAJ&hl=en)
 

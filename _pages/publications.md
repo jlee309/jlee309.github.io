@@ -11,7 +11,7 @@ My research focuses on Variational Inference, Machine learning, Normalizing Flow
 
 ## Publications
 1. [A Scalable Variational Bayes Approach for Fitting Non-Conjugate Spatial Generalized Linear Mixed Models via Basis Expansions](https://www.sciencedirect.com/science/article/pii/S0167947326001222?dgcid=author)  
-    **Lee, J.H.**, and [Lee, B.S.](https://sites.google.com/view/benslee/) (2026) Computational Statistics & Data Analysis. To appear
+    **Lee, J.H.**, and [Lee, B.S.](https://sites.google.com/view/benslee/) (2027) Computational Statistics & Data Analysis.
 
 2. [A Scalable Variational Bayes Approach to Fit High-Dimensional Spatial Generalized Linear Mixed Models](https://www.tandfonline.com/doi/abs/10.1080/00401706.2025.2561141)  
     **Lee, J.H.**, and [Lee, B.S.](https://sites.google.com/view/benslee/) (2026)  

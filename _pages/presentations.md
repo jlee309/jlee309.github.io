@@ -5,6 +5,10 @@ permalink: /Presentations/
 author_profile: true
 ---
 
+## A Scalable Variational Approach for Modeling Multivariate Spatial Data with Variational Inference Normalizing Flows
+
+* **[Aug 2026]** Talk, Joint Statistical Meetings, Boston, MA
+
 ## A Scalable Variational Bayes Approach for Fitting Non-Conjugate Spatial Generalized Linear Mixed Models via Basis Expansions
 
 * **[Mar 2026]** Talk, Eastern North America Region (ENAR) 2026 Spring Meeting, Indianapolis, IN

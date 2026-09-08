@@ -9,13 +9,13 @@ author_profile: true
 
 **Purdue University**
 
-* **[Summer 2026]** **LECTURER**, STAT517 (Introduction course to the Statistical Theory and Inference)
-  Teaching Evaluation (4.61/5), Response Ratio 95.83%
+* **[Summer 2026]** **LECTURER**, STAT517 (Introduction course to the Statistical Theory and Inference)<br>
+  <span style="color: blue; font-weight: bold;">Teaching Evaluation (4.61/5)</span>, Response Ratio 95.83%  
 
 **George Mason University**
 
-* **[Summer 2025]** **LECTURER**, STAT344 (Probability and Statistics for Engineers and Scientists I)  
-  Teaching Evaluation (4.49/5), Response Ratio 79.55%
+* **[Summer 2025]** **LECTURER**, STAT344 (Probability and Statistics for Engineers and Scientists I)<br>
+  <span style="color: blue; font-weight: bold;">Teaching Evaluation (4.49/5)</span>, Response Ratio 79.55%   
 * **[Spring 2025]** Teaching Assistant, STAT350 (Introductory Statistics II) & STAT572 (Intro Statistical Learning)
 * **[Fall 2024]** Teaching Assistant, STAT350 (Introductory Statistics II) & STAT346 (Probability for Engineers)
 * **[Summer 2022]** Teaching Assistant, STAT250 (Introductory Statistics I)

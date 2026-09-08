@@ -10,6 +10,7 @@ author_profile: true
 **Purdue University**
 
 * **[Summer 2026]** **LECTURER**, STAT517 (Introduction course to the Statistical Theory and Inference)
+  Teaching Evaluation (4.61/5), Response Ratio 95.83%
 
 **George Mason University**
 

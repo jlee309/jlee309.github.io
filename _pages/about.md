@@ -13,14 +13,14 @@ I received my Ph.D. in Statistics from the [Department of Statistics at George M
 
 Prior to my Ph.D., I worked as a Senior Researcher at the [Korea International Trade Association](https://www.kita.org/), gaining industry experience in applied research. I received an M.S. in Biostatistics from the School of Public Health at [Seoul National University](https://health.snu.ac.kr/en/) under the supervision of [Dr. Ho Kim](https://health.snu.ac.kr/snu__professor/%ea%b9%80%ed%98%b8/), and a B.A. in Applied Statistics and Economics from [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp).
 
-My research focuses on developing scalable variational Bayes methods for massive non-Gaussian spatial datasets. To address this challenge, I design novel variational inference frameworks that enable fast and accurate posterior inference in regimes where traditional MCMC methods are computationally infeasible, leveraging state-of-the-art machine learning, neural networks, and generative modeling techniques within a Bayesian framework. These methods deliver substantial computational gains while maintaining strong predictive performance, with future applications in atmospheric science, hydrology, genetics, and fMRI data analysis.
+My research develops scalable variational Bayes methods for massive non-Gaussian spatial data. I design fast and accurate inference methods for problems where traditional MCMC is computationally infeasible. My work combines Bayesian statistics with neural networks and generative models. These methods enable efficient analysis of complex data in environmental science, clinical trials, and economics.
 
 ## Research Interests
 
 * Variational Inference, Normalizing Flows, Neural Network, Bayesian Statistics, Spatial Statistics, Functional Data Analysis
 
 ## News
-
+* **[Aug 2026]** **Jin Hyung Lee** presented "A Scalable Variational Approach for Modeling Multivariate Spatial Data with Variational Inference Normalizing Flows" at JSM 2026.
 * **[Oct 2025]** **Jin Hyung Lee** joined the Department of Statistics at Purdue as a Postdoctoral Researcher under the supervision of Prof. Anindya Bhadra.
 * **[Oct 2025]** **Jin Hyung Lee** successfully defended his thesis [Variational Approximations for Massive Spatial Data: Scalable Bayesian Inference](https://www.proquest.com/openview/7ffa929769e816519ecd28911779e33e/1?pq-origsite=gscholar&cbl=18750&diss=y) on October 21st. He would like to express his sincere gratitude to Dr. Ben Seiyon Lee for his support.
 

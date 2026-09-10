@@ -21,6 +21,8 @@ My research develops scalable variational Bayes methods for massive non-Gaussian
 
 ## News
 * **[Aug 2026]** **Jin Hyung Lee** presented "A Scalable Variational Approach for Modeling Multivariate Spatial Data with Variational Inference Normalizing Flows" at Joint Statistical Meeting (JSM) 2026.
+* **[Aug 2026]** **Jin Hyung Lee** successfully taught STAT 517 (Introduction to Statistical Theory and Inference) and received a teaching evaluation of 4.61/5.00.
+* **[Mar 2026]** **Jin Hyung Lee** presented "A Scalable Variational Bayes Approach for Fitting Non-Conjugate Spatial Generalized Linear Mixed Models via Basis Expansions" at Eastern North American Region (ENAR) 2026.
 * **[Oct 2025]** **Jin Hyung Lee** joined the Department of Statistics at Purdue as a Postdoctoral Researcher under the supervision of Prof. Anindya Bhadra.
 * **[Oct 2025]** **Jin Hyung Lee** successfully defended his thesis [Variational Approximations for Massive Spatial Data: Scalable Bayesian Inference](https://www.proquest.com/openview/7ffa929769e816519ecd28911779e33e/1?pq-origsite=gscholar&cbl=18750&diss=y) on October 21st. He would like to express his sincere gratitude to Dr. Ben Seiyon Lee for his support.
 

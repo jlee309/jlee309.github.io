@@ -11,16 +11,18 @@ My research focuses on Variational Inference, Machine learning, Normalizing Flow
 
 ## Publications
 
-1. [A Scalable Variational Bayes Approach for Fitting Non-Conjugate Spatial Generalized Linear Mixed Models via Basis Expansions](https://www.sciencedirect.com/science/article/pii/S0167947326001222?dgcid=author) <a href="https://github.com/jlee309/SIVI_CSDA/tree/main" style="color: black; font-weight: bold; margin-left: 2cm; display: inline-block; text-decoration: none;">[Code]</a>  
-    **Lee, J.H.**, and [Lee, B.S.](https://sites.google.com/view/benslee/) (2027) Computational Statistics & Data Analysis.
+1. [A Scalable Variational Bayes Approach for Fitting Non-Conjugate Spatial Generalized Linear Mixed Models via Basis Expansions](https://www.sciencedirect.com/science/article/pii/S0167947326001222?dgcid=author)  
+    **Lee, J.H.**, and [Lee, B.S.](https://sites.google.com/view/benslee/) (2027)  
+    *Computational Statistics & Data Analysis*. <a href="https://github.com/jlee309/SIVI_CSDA/tree/main" style="color: black; display: inline-block; text-decoration: none;"><strong>[Code]</strong></a>
 
-2. [A Scalable Variational Bayes Approach to Fit High-Dimensional Spatial Generalized Linear Mixed Models](https://www.tandfonline.com/doi/abs/10.1080/00401706.2025.2561141) <a href="https://github.com/jlee309/INFVB_technometrics" style="color: black; font-weight: bold; margin-left: 2cm; display: inline-block; text-decoration: none;">[Code]</a>  
+2. [A Scalable Variational Bayes Approach to Fit High-Dimensional Spatial Generalized Linear Mixed Models](https://www.tandfonline.com/doi/abs/10.1080/00401706.2025.2561141)  
     **Lee, J.H.**, and [Lee, B.S.](https://sites.google.com/view/benslee/) (2026)  
-    *Technometrics*, 68(1), 146–158.
+    *Technometrics*, 68(1), 146–158. <a href="https://github.com/jlee309/INFVB_technometrics" style="color: black; display: inline-block; text-decoration: none;"><strong>[Code]</strong></a>
 
 3. [Bayesian Methods for Quality Tolerance Limit (QTL) Monitoring](https://onlinelibrary.wiley.com/doi/abs/10.1002/pst.2427)  
     Poythress, J.C., **Lee, J.H.**, [Takeda, K.](https://scholar.google.com/citations?user=3NpDNtgAAAAJ&hl=ja), and [Liu, J.](https://www.linkedin.com/in/jun-liu-13186496/) (2024)  
     *Pharmaceutical Statistics*, 23(6), 1166-1180.
+
 
 ## Under Review
 
